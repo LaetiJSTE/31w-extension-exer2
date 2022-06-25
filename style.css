@@ -12,7 +12,8 @@ Site ground URI de l'article:
 }
 
 .boite__modale {
-  background-color: red;
+  background-color: rgb(121, 121, 121);
+  border-radius: 25px;
   position: absolute;
   width: 50vw;
   height: 50vh;
