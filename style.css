@@ -12,7 +12,7 @@ Site ground URI de l'article:
 }
 
 .boite__modale {
-  background-color: rgb(121, 121, 121);
+  background-color: rgb(168, 167, 167);
   border-radius: 25px;
   position: absolute;
   width: 50vw;
@@ -22,6 +22,8 @@ Site ground URI de l'article:
   transform: scale(0);
   opacity: 0;
   transition: transform 1s, opacity 1s;
+  padding: 70px;
+  line-height: 1.625 ;
 }
 
 .boite__X {
@@ -30,10 +32,24 @@ Site ground URI de l'article:
   position: absolute;
   top: 10px;
   left: 10px;
+  padding: 10px;
+  font-weight: bolder;
+  border: black 1px solid;
+  color: white ;
+  background-color: black;
+ 
 }
+
+/* .boite__X:hover{
+  background: none;
+  box-shadow: rgb(0, 0, 0) 0px 5px 15px;
+  transform: scale(1.3);
+  font-size: 16px;
+  transition: .2s ;
+} */
 
 .boite__modale__ouvrir {
   transform: scale(1);
   opacity: 1;
-}
+} 
 /*# sourceMappingURL=style.css.map */
