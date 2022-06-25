@@ -2,7 +2,7 @@
 ## plugin Wordpress avec boite modale
 ### Contient 6 commits
 
-[github-page]((https://github.com/LaetiJSTE/31w-extension-exer2/edit/gh-pages/index.md)
+[github-page]((https://github.com/LaetiJSTE/31w-extension-exer2/exer2)
 > Le thème conient 5 fichiers:
 style.scss
 message.js
