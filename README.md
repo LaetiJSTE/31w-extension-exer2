@@ -1,8 +1,8 @@
 # Exercice - 2
 ## plugin Wordpress avec boite modale
-### Contient 0 commits
+### Contient 6 commits
 
-[github-page]()
+[github-page](file:///C:/Users/juste/OneDrive/Bureau/exercice2.html)
 > Le thème conient 5 fichiers:
 style.scss
 message.js
