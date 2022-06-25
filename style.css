@@ -51,5 +51,19 @@ Site ground URI de l'article:
 .boite__modale__ouvrir {
   transform: scale(1);
   opacity: 1;
-} 
+}
+
+#mon_bouton {
+  box-shadow: rgb(0, 0, 0) 0px 2px 2px;
+  margin-left: 30px;
+}
+
+#mon_bouton:hover{
+  background: none;
+  box-shadow: rgb(0, 0, 0) 0px 5px 15px;
+  transform: scale(1.2);
+  font-weight: bolder;
+  transition: .5s ;
+}
+  
 /*# sourceMappingURL=style.css.map */
